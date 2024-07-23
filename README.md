@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvarolazz
 - 👀 I’m interested in medicine, data science
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science and analysis
 - 💞️ I’m looking to collaborate on giving the best insights to my workplace
 - 📫 How to reach me, by email alvaro.lazzarini@gmail.com or buy me a beer
 - 😄 Pronouns: He
