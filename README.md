@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on giving the best insights to my workplace
 - 📫 How to reach me, by email alvaro.lazzarini@gmail.com or buy me a beer
 - 😄 Pronouns: He
-- ⚡ Fun fact: did u know that my middle name es Agustin?
+- ⚡ Fun fact: did u know that my middle name is Agustin?
 
 <!---
 alvarolazz/alvarolazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
